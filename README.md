@@ -20,5 +20,7 @@ The Cashier system does as follows:
   
 ![image](https://user-images.githubusercontent.com/65728188/150658112-5c06840d-0f7f-483f-98ae-a677590ecb39.png)
 
+![image](https://user-images.githubusercontent.com/65728188/150658497-13a899bf-ec2f-4b14-a132-519cdacc22db.png)
+
 
 
